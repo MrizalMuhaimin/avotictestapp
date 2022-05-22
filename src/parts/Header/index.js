@@ -5,7 +5,7 @@ import BtnLogout from '../../components/BtnLogout/index';
 
 function Header(){
     return (
-        <header className="fixed top-0 left-0 right-0 flex w-full bg-white h-16  items-center justify-between shadow-md z-10">
+        <header className="fixed top-0 left-0 right-0 flex w-full bg-white h-16  items-center justify-between shadow-md z-20">
             <div className="flex ml-8">
                 <img 
                     src={LogoAvoticts} 
