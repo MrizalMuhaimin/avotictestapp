@@ -1,4 +1,4 @@
-import IconDashboar from '../../assets/icons/Dashboard_icon.svg'
+// import IconDashboar from '../../assets/icons/Dashboard_icon.svg'
 
 function MenuEmpty(){
     return(
