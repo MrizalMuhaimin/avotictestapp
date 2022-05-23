@@ -1,27 +1,10 @@
 import { Chart } from 'react-chartjs-2';
-import {
-    Chart as ChartJS,
-    LinearScale,
-    CategoryScale,
-    BarElement,
-    PointElement,
-    LineElement,
-    Legend,
-    Tooltip,
-  } from 'chart.js';
+
 
 
 import Data from '../../data/Purchase/index';
 
-ChartJS.register(
-    LinearScale,
-    CategoryScale,
-    BarElement,
-    PointElement,
-    LineElement,
-    Legend,
-    Tooltip
-  );
+
 
 const options = {
     title: {
