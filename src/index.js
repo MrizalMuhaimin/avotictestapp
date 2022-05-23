@@ -13,7 +13,10 @@ import {
   LineElement,
   Legend,
   Tooltip,
+  registerables as registerablesJS
 } from 'chart.js';
+
+ChartJS.register(...registerablesJS);
 
 ChartJS.register(
   LinearScale,
