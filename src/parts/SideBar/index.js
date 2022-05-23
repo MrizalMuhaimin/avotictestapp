@@ -2,8 +2,6 @@ import MenuEmpty from "../../components/MenuEmpty/index";
 import MenuDashboard from "../../components/MenuDashboard/index";
 import Menu from "../../components/Menu/index";
 
-
-
 function SideBar() {
     return (
 
