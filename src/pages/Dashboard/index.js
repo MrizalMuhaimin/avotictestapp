@@ -51,7 +51,7 @@ function Dashboard(){
                 <ChartCard/>
                 
                 <Sku type="BEST SELLING SKU"/>
-                <Sku type="TOP COMPOTITOR SKU"/> 
+                <Sku type="TOP COMPETITOR SKU"/> 
                   
             </div> 
             <DateRange modal={modal} falsemodal={handleModalFalse} updateDate={updateDate}/>
